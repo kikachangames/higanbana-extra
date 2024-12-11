@@ -1,12 +1,11 @@
-# higanbana-extra
+# Higanbana - Crédito Extra
 Tradução pt-br da visual novel Higanbana - Extra Credit.
 
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra1.png">
 <br/>
-<br/>
 
 <h3>As flores implacáveis desabrocham na calada da noite</h3>
-<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel <a href="https://vndb.org/v8832" target="_blank"> Higanbana no Saku Yoru ni - Dai Ni Ya</a>, lançada pela 07th Expansion em 2011.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel <a href="https://vndb.org/v8832" target="_blank"> Higanbana - Credit Extra</a>, lançada pela 07th Expansion em 2011.</p>
 <br/>
 
 <h3>Sinopse</h3>
