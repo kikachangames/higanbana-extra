@@ -1,5 +1,5 @@
 # Higanbana - Crédito Extra
-Tradução pt-br da visual novel {b}Higanbana - Extra Credit{/b}.
+Tradução pt-br da visual novel **Higanbana - Extra Credit**.
 
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra1.png">
 <br/>
