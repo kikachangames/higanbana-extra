@@ -13,7 +13,6 @@ Tradução pt-br da visual novel Higanbana - Extra Credit.
 <br/>
 
 <h3>Progresso total da tradução: 80%</h3>
-<br/>
 
 <h3>Lançamento</h3>
 <p>25/12/2024 (meio-dia).</p>
