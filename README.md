@@ -45,6 +45,7 @@ Recomenda-se jogar somente após finalizar <a href="https://kikachangames.github
 <a href="https://airdrakis.itch.io/higanbana-no-saku-yoru-ni-extra-credit">Airdrakis</a><br/>
 <a href="https://x.com/ForestSGrant" target="blank">The Omega Bodega</a><br/>
 <br/>
+<br/>
 
 <img src="https://kikachangames.github.io/higanbana-extra/img/download_bt_extra.png">
 
