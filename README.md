@@ -5,11 +5,11 @@ Tradução pt-br da visual novel Higanbana - Extra Credit.
 <br/>
 
 <h3>As flores implacáveis desabrocham na calada da noite</h3>
-<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel <a href="https://vndb.org/v8832" target="_blank"> Higanbana - Credit Extra</a>, lançada pela 07th Expansion em 2011.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução da visual novel <a href="https://vndb.org/v8832" target="_blank"> Higanbana - Extra Credit</a>, lançada pela Zettai TL em 2023.</p>
 <br/>
 
 <h3>Sinopse</h3>
-<p>Marie agora assumiu um assento entre os Youkais da Escola. Ainda assim, nem tudo são flores no seu cotidiano escolar. Novos personagens e revelações dão continuidade e expandem o universo apresentado em <a href="https://kikachangames.github.io/higanbana1-pt-br/">Higanbana - Dai Ichi Ya</a>.</p>
+<p>Higanbana — Crédito Extra é um fã game que adapta dois contos de Ryukishi07, lançados originalmente em formato de livreto, para visual novel: "O Professor Desumano" e "Reuniões de Classe na Escola Antiga". Recomenda-se que essa VN seja jogada após  <a href="https://kikachangames.github.io/higanbana1-pt-br">Higanbana - A Primeira Noite</a>.</p>
 <br/>
 
 <h3>Progresso total da tradução: 80%</h3>
@@ -48,12 +48,10 @@ Tradução pt-br da visual novel Higanbana - Extra Credit.
 
 
 <h3>Agradecimentos</h3>
-<p>Kyougaru e Marshmelio (Android port)</p>
-<p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a></p>
-<p><a href="https://github.com/Galladite27/ONScripter-EN" target="_blank">Galladite27</a></p>
-<p><a href="https://vnx.uvnworks.com/" target="_blank">Converting Minds: VNX+</a></p>
-<p><a href="https://www.youtube.com/@Palpitando_123" target="_blank">Canal Palpitando</a></p>
-<p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a></p>
+<a href="https://07th-expansion.net/" target="blank">07th Expansion</a>
+<a href="https://discord.gg/qxM4wWu" target="blank">07th Expansion Wiki server</a>
+<a href="https://airdrakis.itch.io/higanbana-no-saku-yoru-ni-extra-credit">Airdrakis</a>
+<a href="https://x.com/ForestSGrant" target="blank">The Omega Bodega</a>
 <br/>
 
 <h3>Download</h3>
