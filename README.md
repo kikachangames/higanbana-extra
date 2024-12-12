@@ -5,7 +5,7 @@ Tradução pt-br da visual novel Higanbana - Extra Credit.
 <br/>
 
 <h3>As flores implacáveis desabrocham na calada da noite</h3>
-<p>Nesta página você poderá acompanhar o progresso da tradução da visual novel <a href="https://vndb.org/v8832" target="_blank"> Higanbana - Extra Credit</a>, lançada pela Zettai TL em 2023.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução de <a href="https://vndb.org/v8832" target="_blank"> Higanbana - Extra Credit</a>, lançada pela Zettai TL em 2023.</p>
 <br/>
 
 <h3>Sinopse</h3>
