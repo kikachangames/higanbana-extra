@@ -9,7 +9,7 @@ Tradução pt-br da visual novel **Higanbana - Extra Credit**.
 visual novel lançada pela Zettai TL em 2023.</p>
 
 <p><b>Higanbana — Crédito Extra</b> é um fã game que adapta dois contos de Ryukishi07,<br/>
-publicados originalmente em formato de livreto entre 2011 e 2013:</br>
+publicados originalmente em formato de livreto entre 2011 e 2013:<br/>
 "O Professor Desumano" e "Reuniões de Classe na Escola Antiga".<br/>
 Recomenda-se jogar somente após finalizar <a href="https://kikachangames.github.io/higanbana1-pt-br">Higanbana - A Primeira Noite</a>.</p>
 <br/>
