@@ -1,6 +1,6 @@
 # Higanbana - Crédito Extra
 Tradução pt-br da visual novel **Higanbana - Extra Credit**.
-
+<table style="width:80%">
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra1.png">
 <br/>
 
@@ -50,4 +50,5 @@ Tradução pt-br da visual novel **Higanbana - Extra Credit**.
 <hr>
 <p><small>Última atualização: 11/12/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
+</table>
 
