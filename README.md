@@ -14,7 +14,7 @@ publicados originalmente em formato de livreto entre 2011 e 2013:<br/>
 Recomenda-se jogar somente após finalizar <a href="https://kikachangames.github.io/higanbana1-pt-br">Higanbana - A Primeira Noite</a>.</p>
 <br/>
 
-<h3>☠️ Lançamento</h3>
+<h3>Lançamento</h3>
 <p>25/12/2024 (meio-dia).</p>
 <br/>
 
@@ -26,12 +26,13 @@ Recomenda-se jogar somente após finalizar <a href="https://kikachangames.github
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra7.png">
 <br/>
 <br/>
+
 <h3>Membros do projeto</h3>
 <br/>
+
 <h3>Manolo-chan</h3>
 <img src="https://kikachangames.github.io/higanbana-extra/img/manolo.png">
 <p>Tradução, programação e edição de imagens</p>
-<br/>
 
 <h3>0Mateus</h3>
 <img src="https://kikachangames.github.io/higanbana-extra/img/0mateus.png">
