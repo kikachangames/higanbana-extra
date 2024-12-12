@@ -7,7 +7,7 @@ Tradução pt-br da visual novel **Higanbana - Extra Credit**.
 <h3>Higanbana - Uma Outra Noite</h3>
 <p>Nesta página você encontra informações sobre a tradução de <a href="https://vndb.org/v8832" target="_blank"> Higanbana - Extra Credit</a>, lançada pela Zettai TL em 2023.</p>
 
-<p>{b}Higanbana — Crédito Extra{/b} é um fã game que adapta dois contos de Ryukishi07, lançados originalmente em formato de livreto, para visual novel: "O Professor Desumano" e "Reuniões de Classe na Escola Antiga". Recomenda-se que essa VN seja jogada após <a href="https://kikachangames.github.io/higanbana1-pt-br">Higanbana - A Primeira Noite</a>.</p>
+<p><b>Higanbana — Crédito Extra</b> é um fã game que adapta dois contos de Ryukishi07, lançados originalmente em formato de livreto, para visual novel: "O Professor Desumano" e "Reuniões de Classe na Escola Antiga". Recomenda-se que essa VN seja jogada após <a href="https://kikachangames.github.io/higanbana1-pt-br">Higanbana - A Primeira Noite</a>.</p>
 <br/>
 
 <h3>Lançamento</h3>
