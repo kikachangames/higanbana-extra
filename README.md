@@ -46,9 +46,7 @@ Recomenda-se jogar somente após finalizar <a href="https://kikachangames.github
 <a href="https://x.com/ForestSGrant" target="blank">The Omega Bodega</a><br/>
 <br/>
 
-<h3>Download</h3>
-
-<p><b>Em breve!</b></p>
+<img src="https://kikachangames.github.io/higanbana-extra/img/downnload_bt_extra.png">
 
 <hr>
 <p><small>Última atualização: 12/12/2024.</small></p>
