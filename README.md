@@ -25,12 +25,12 @@ Tradução pt-br da visual novel **Higanbana - Extra Credit**.
 <h3>Membros do projeto</h3>
 
 <h3>Manolo-chan</h3>
-<img src="https://kikachangames.github.io/higanbana-extra/manolo.png">
+<img src="https://kikachangames.github.io/higanbana-extra/img/manolo.png">
 <p>Tradução, programação e edição de imagens</p>
 <br/>
 
 <h3>0Mateus</h3>
-<img src="https://kikachangames.github.io/higanbana-extra/0mateus.png">
+<img src="https://kikachangames.github.io/higanbana-extra/img/0mateus.png">
 <p>Revisão</p>
 <br/>
 
