@@ -18,7 +18,6 @@ Tradução pt-br da visual novel Higanbana - Extra Credit.
 <p>25/12/2024 (meio-dia).</p>
 <br/>
 
-<h3>Imagens</h3>
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra2.png">
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra3.png">
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra4.png">
