@@ -48,10 +48,10 @@ Tradução pt-br da visual novel Higanbana - Extra Credit.
 
 
 <h3>Agradecimentos</h3>
-<a href="https://07th-expansion.net/" target="blank">07th Expansion</a>
-<a href="https://discord.gg/qxM4wWu" target="blank">07th Expansion Wiki server</a>
-<a href="https://airdrakis.itch.io/higanbana-no-saku-yoru-ni-extra-credit">Airdrakis</a>
-<a href="https://x.com/ForestSGrant" target="blank">The Omega Bodega</a>
+<a href="https://07th-expansion.net/" target="blank">07th Expansion</a><br/>
+<a href="https://discord.gg/qxM4wWu" target="blank">07th Expansion Wiki server</a><br/>
+<a href="https://airdrakis.itch.io/higanbana-no-saku-yoru-ni-extra-credit">Airdrakis</a><br/>
+<a href="https://x.com/ForestSGrant" target="blank">The Omega Bodega</a><br/>
 <br/>
 
 <h3>Download</h3>
