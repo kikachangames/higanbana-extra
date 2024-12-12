@@ -25,16 +25,14 @@ Tradução pt-br da visual novel **Higanbana - Extra Credit**.
 <h3>Membros do projeto</h3>
 
 <h3>Manolo-chan</h3>
-<img src="https://kikachangames.github.io/air/manolo.png">
-<p>Líder de projeto, tradução, programação e edição de imagens</p>
+<img src="https://kikachangames.github.io/higanbana-extra/manolo.png">
+<p>Tradução, programação e edição de imagens</p>
 <br/>
 
 <h3>0Mateus</h3>
-<img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png">
+<img src="https://kikachangames.github.io/higanbana-extra/0mateus.png">
 <p>Revisão</p>
 <br/>
-
-
 
 <h3>Agradecimentos</h3>
 <a href="https://07th-expansion.net/" target="blank">07th Expansion</a><br/>
