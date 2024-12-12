@@ -14,7 +14,7 @@ publicados originalmente em formato de livreto entre 2011 e 2013:<br/>
 Recomenda-se jogar somente após finalizar <a href="https://kikachangames.github.io/higanbana1-pt-br">Higanbana - A Primeira Noite</a>.</p>
 <br/>
 
-<h3>Lançamento</h3>
+☠️<h3>Lançamento</h3>
 <p>25/12/2024 (meio-dia).</p>
 <br/>
 
