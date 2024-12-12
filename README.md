@@ -20,17 +20,12 @@ Tradução pt-br da visual novel Higanbana - Extra Credit.
 <br/>
 
 <h3>Imagens</h3>
-<img src="https://kikachangames.github.io/higanbana2/higan2_menu.png">
-<p>Menu principal</p>
-<img src="https://kikachangames.github.io/higanbana2/01.png">
-<p>Capítulo 1: O Festival Lunar</p>
-<img src="https://kikachangames.github.io/higanbana2/02.png">
-<p>Capítulo 2: O Ceifador do 13º Degrau</p>
-<img src="https://kikachangames.github.io/higanbana2/03.png">
-<p>Capítulo 3: Bem-vindo ao Mundo do Espelho</p>
-<img src="https://kikachangames.github.io/higanbana2/renoir.png">
-<p>Capítulo 4: O Retrato dos Meninos</p>
-<br/>
+<img src="https://kikachangames.github.io/higanbana-extra/img/extra2.png">
+<img src="https://kikachangames.github.io/higanbana-extra/img/extra3.png">
+<img src="https://kikachangames.github.io/higanbana-extra/img/extra4.png">
+<img src="https://kikachangames.github.io/higanbana-extra/img/extra5.png">
+<img src="https://kikachangames.github.io/higanbana-extra/img/extra6.png">
+<img src="https://kikachangames.github.io/higanbana-extra/img/extra7.png">
 <br/>
 
 <h3>Membros do projeto</h3>
