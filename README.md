@@ -3,7 +3,7 @@ Tradução pt-br da visual novel **Higanbana - Extra Credit**.
 
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra1.png">
 <br/>
-<table style="width:637 px">
+
 <h3>Higanbana - Uma Outra Noite</h3>
 <p>Nesta página você encontra informações sobre a tradução de <a href="https://vndb.org/v8832" target="_blank"> Higanbana - Extra Credit</a>, lançada pela Zettai TL em 2023.</p>
 
@@ -50,5 +50,3 @@ Tradução pt-br da visual novel **Higanbana - Extra Credit**.
 <hr>
 <p><small>Última atualização: 11/12/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
-</table>
-
