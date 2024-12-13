@@ -5,7 +5,7 @@ Tradução pt-br da visual novel **Higanbana - Extra Credit**.
 <br/>
 
 <h3>Higanbana - Uma Outra Noite</h3>
-<p>Nesta página você encontra informações sobre a tradução de <a href="https://vndb.org/v8832" target="_blank"> Higanbana - Extra Credit</a>,<br/>
+<p>Nesta página você encontra informações sobre a tradução de <a href="https://vndb.org/v47986" target="_blank"> Higanbana - Extra Credit</a>,<br/>
 visual novel lançada pela Zettai TL em 2023.</p>
 
 <p><b>Higanbana — Crédito Extra</b> é um fã game que adapta dois contos de Ryukishi07,<br/>
