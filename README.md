@@ -28,7 +28,6 @@ Recomenda-se jogar somente após finalizar <a href="https://kikachangames.github
 <br/>
 
 <h3>Membros do projeto</h3>
-<br/>
 
 <h3><a href="https://github.com/kikachangames/" target="blank">Manolo-chan</a></h3>
 <img src="https://kikachangames.github.io/higanbana-extra/img/manolo.png">
