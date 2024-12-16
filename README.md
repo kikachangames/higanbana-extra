@@ -34,7 +34,7 @@ Recomenda-se jogar somente após finalizar <a href="https://kikachangames.github
 <img src="https://kikachangames.github.io/higanbana-extra/img/manolo.png">
 <p>Tradução, programação e edição de imagens</p>
 
-<h3>0Mateus</h3>
+<h3><a href="https://github.com/0Mateus/" target="blank">0Mateus</a></h3>
 <img src="https://kikachangames.github.io/higanbana-extra/img/0mateus.png">
 <p>Revisão</p>
 <br/>
@@ -50,5 +50,5 @@ Recomenda-se jogar somente após finalizar <a href="https://kikachangames.github
 <img src="https://kikachangames.github.io/higanbana-extra/img/download_bt_extra.png">
 
 <hr>
-<p><small>Última atualização: 12/12/2024.</small></p>
+<p><small>Última atualização: 15/12/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
