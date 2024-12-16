@@ -35,7 +35,7 @@ Recomenda-se jogar somente após finalizar <a href="https://kikachangames.github
 
 <h3><a href="https://github.com/0Mateus/" target="blank">0Mateus</a></h3>
 <img src="https://kikachangames.github.io/higanbana-extra/img/0mateus.png">
-<p>Revisão</p>
+<p>Revisão e Quality Check</p>
 <br/>
 
 <h3>Agradecimentos</h3>
