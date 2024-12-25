@@ -15,7 +15,7 @@ publicados originalmente em formato de livreto entre 2011 e 2013:<br/>
 <br/>
 
 <h3>Lançamento</h3>
-<p>25/12/2024 (meio-dia).</p>
+<p>25/12/2024.</p>
 <br/>
 
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra2.png">
