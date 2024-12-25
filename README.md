@@ -46,8 +46,8 @@ publicados originalmente em formato de livreto entre 2011 e 2013:<br/>
 <br/>
 <br/>
 
-<img src="https://kikachangames.github.io/higanbana-extra/img/download_bt_extra.png">
+<a href="https://drive.google.com/file/d/10Ltu3VeADjLuPUQ7whU0lQ4IS0u0fqOS/view?usp=sharing"><img src="https://kikachangames.github.io/higanbana-extra/img/download_bt_extra1.png"></a>
 
 <hr>
-<p><small>Última atualização: 24/12/2024.</small></p>
+<p><small>Última atualização: 25/12/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
