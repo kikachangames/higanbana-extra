@@ -27,7 +27,7 @@ publicados originalmente em formato de livreto entre 2011 e 2013:<br/>
 <br/>
 <br/>
 
-<h3>Membros do projeto</h3>
+<h3>Equipe</h3>
 
 <h3><a href="https://github.com/kikachangames/" target="blank">Manolo-chan</a></h3>
 <img src="https://kikachangames.github.io/higanbana-extra/img/manolo.png">
