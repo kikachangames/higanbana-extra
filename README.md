@@ -47,7 +47,7 @@ publicados originalmente em formato de livreto entre 2011 e 2013:<br/>
 <br/>
 <br/>
 
-<a href="https://drive.google.com/file/d/10Ltu3VeADjLuPUQ7whU0lQ4IS0u0fqOS/view?usp=sharing"><img src="https://kikachangames.github.io/higanbana-extra/img/download_bt_extra1.png"></a>
+<a href="https://github.com/kikachangames/higanbana-extra/releases/download/v2.5/Higanbana-Credito-Extra-2.5.zip"><img src="https://kikachangames.github.io/higanbana-extra/img/download_bt_extra1.png"></a>
 
 <hr>
 <p><small>Última atualização: 03/01/2026.</small></p>
