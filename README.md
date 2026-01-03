@@ -16,10 +16,10 @@ publicados originalmente em formato de livreto entre 2011 e 2013:<br/>
 
 <h3>Lançamento</h3>
 <p>25/12/2024.</p>
-<br/>
 
 <h3>Atualização</h3>
-<p>03/01/2026 (v.2.5) - Inclusão do capítulo "A Utopia de Marie", escrito por Ryukishi07 em 2025 para comemorar os 15 anos de Higanbana no Saku Youru ni.</p>
+<p>03/01/2026 (v.2.5) - Inclusão do capítulo "A Utopia de Marie", escrito por Ryukishi07 em 2025\npara comemorar os 15 anos de Higanbana no Saku Youru ni.</p>
+<br/>
 
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra2.png">
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra3.png">
