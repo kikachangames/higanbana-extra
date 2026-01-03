@@ -24,6 +24,7 @@ publicados originalmente em formato de livreto entre 2011 e 2013:<br/>
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra5.png">
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra6.png">
 <img src="https://kikachangames.github.io/higanbana-extra/img/extra7.png">
+<img src="https://kikachangames.github.io/higanbana-extra/img/utopia.png">
 <br/>
 <br/>
 
