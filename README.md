@@ -42,7 +42,7 @@ publicados originalmente em formato de livreto entre 2011 e 2013:<br/>
 <a href="https://07th-expansion.net/" target="blank">07th Expansion</a><br/>
 <a href="https://discord.gg/qxM4wWu" target="blank">07th Expansion Wiki server</a><br/>
 <a href="https://airdrakis.itch.io/higanbana-no-saku-yoru-ni-extra-credit">Airdrakis</a><br/>
-<a href="https://x.com/ForestSGrant" target="blank">The Omega Bodega</a><br/>
+<a href="https://x.com/omegabodega" target="blank">The Omega Bodega</a><br/>
 <br/>
 <br/>
 
